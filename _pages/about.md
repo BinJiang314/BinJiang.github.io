@@ -29,4 +29,8 @@ dependence on averaging of azimuthal angles than the time, especially at high B0
 
 For more personal info
 ------
-More info can be found in [In Chinese](https://nicdj01.xtu.edu.cn/info/1108/5378.htm)
+More info can be found in [here in Chinese](https://nicdj01.xtu.edu.cn/info/1108/5378.htm)
+You can find my CV here: [BinJiang's Curriculum Vitae](../assets/Curriculum_Vitae_XTU_2025v2.pdf).
+[Email](mailto:jiangbin@xtu.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) /
+————————————————
+
