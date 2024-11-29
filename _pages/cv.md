@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*02/2016—03/2021	Ph.D. in Mechanical Engineering, the University of Melbourne 
+Research Topic: Flame-wall interaction, autoignition, MILD combustion, Computational Fluid Dynamics
+Thesis: Flame-wall interaction for flames diluted with hot combustion products
+Advisor: Dr. Robert Gordon, Dr. Mohsen Talei
+*09/2013—01/2016	M.A. in Thermal Engineering, Northwestern Polytechnical University (NWPU)
+Research Topic: Thermodynamics, Hydromechanics, Computational Fluid Dynamics
+		Overall GPA: 3.76/4. Rank: 5/149
+*09/2008—07/2012	B.A. in Thermal Energy and Power Engineering, NWPU
+		Research Topic: Thermodynamics, Hydromechanics
+			Overall GPA: 3.32/4. Rank: 8/30 (The First Department with Excellent Students)
 
 Work experience
 ======
