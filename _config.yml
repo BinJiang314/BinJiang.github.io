@@ -214,7 +214,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: https://github.com/BinJiang314/BinJiang.github.io/tree/master/_teaching
   publications:
     output: true
     permalink: /:collection/:path/
