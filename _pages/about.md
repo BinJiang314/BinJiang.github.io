@@ -16,6 +16,7 @@ Flame-wall interaction for premixed methane/air flames diluted by hot combustion
 2,The HOQ configuration cannot be used to investigate the effects of a velocity boundary layer. The use of a 2D channel flames enables a study of these effects. A forced inlet velocity allows the study of unsteady laminar FWI, which has been demonstrated to undergo a mix of HOQ, Side-Wall Quenching (SWQ) and premixed flame propagation in undiluted cases. The forcing introduces flame curvature and stretch effects, the study of which can aid the interrogation of 3D turbulent FWI results. The 2D flame also introduces tangential diffusion effects that can alter autoignition stability and chemistry.
 
 3,Near-wall turbulence can wrinkle the flames and introduce mixing between combustion products and reactants. These factors affect near-wall CO transport. Heat loss inside the thermal boundary layer can inhibit autoignition and attenuate both the CO formation and oxidation rates. These effects were investigated with 3D turbulent DNS with analytically reduced chemical kinetics. Both hot and cold walls were investigated, to separate MILD autoignitive FWI from cold-wall quenching.
+(dataset:[  https://binjiang314.github.io/BinJiang.github.io/])
 
 Design and simulation of a steam turbine and reciprocating engine (Master)
 ======
